@@ -1,1 +1,1 @@
-# ibm-ml-python
+# IBM ML with Python course final project 
